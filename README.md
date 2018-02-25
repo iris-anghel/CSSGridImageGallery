@@ -7,3 +7,5 @@ An image gallery made with CSS Grid, with the help of [Wes Bos](https://cssgrid.
 
 
 Images credit [Farmhouse life. Winter](https://creativemarket.com/OntheMoon/2113644-FARMHOUSE-LIFE.-WINTER)
+
+See it [here](https://rawgit.com/iris-anghel/CSSGridImageGallery/master/index.html)
